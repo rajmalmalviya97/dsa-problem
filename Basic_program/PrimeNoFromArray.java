@@ -1,5 +1,5 @@
 public class PrimeNoFromArray {
-    public static boolean main(String[] args) {
+    public static void main(String[] args) {
         int arr[] = { 55,44,77,11,5,41,28,100,50,99};
 
         //Select Prime No. From The Given Array
