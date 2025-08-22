@@ -8,5 +8,13 @@ public class TrainglePattern {
         }
         System.out.println("");
     }
+      System.out.println("");
+    //Lower Decreasing Traingle
+    for(int i = row; i>0;i--){
+        for(int j = i; j>0 ;j--){
+            System.err.print("*");
+        }
+        System.out.println("");
+    }
  }   
 }
