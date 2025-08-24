@@ -18,4 +18,10 @@ public class Loop {
             index++;
         }
     }
+
+    protected void printLine(int lineno){
+        for(int i=0;i<lineno;i++){
+            System.out.println("* * * ** ");
+        }
+    }
 }
