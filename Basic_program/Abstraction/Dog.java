@@ -1,7 +1,9 @@
 package Abstraction;
 
-public class Dog {
-   public void SayHello(){
-    System.out.println("bhauu");
-   } 
+public class Dog extends Animal{
+   
+    static String color ;
+    public void sayHello(){
+        System.out.println("boow Bhoww");
+    }
 }
