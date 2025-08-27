@@ -7,6 +7,7 @@ public class Test {
         System.out.println(dog.color);
         dog.sayHello();
         dog.sleep();
+        Animal.sayHello();
 
 
         // Dog.color  = "Tony Gray";

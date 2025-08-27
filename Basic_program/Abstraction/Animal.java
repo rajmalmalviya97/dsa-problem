@@ -7,12 +7,12 @@ package Abstraction;
     // System.out.println("-----");
     // }
 
-    public abstract void sayHello();
+    public static abstract   void sayHello();
 
     // public void SayHello(){
     // System.out.println("-----");
     // }
-      public void sleep(){
+    public static void sleep(){
      System.out.println("yes Animal Sleep ");
      }
 }
